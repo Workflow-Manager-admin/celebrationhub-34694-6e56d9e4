@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/celebrationhub-34694-6e56d9e4/celebrationhub_frontend"
+}
